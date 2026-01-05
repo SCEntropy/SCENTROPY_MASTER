@@ -51,7 +51,7 @@ SDEntropy_master/
         ├── input/                               # Shared evaluation data
         ├── bert/                                # BERTScore evaluator
         ├── meteor/                              # METEOR evaluator
-        └── rogue/                               # ROUGE evaluator
+        └── rouge/                               # ROUGE evaluator
 ```
 
 ## Installation
@@ -326,7 +326,7 @@ python meteor_evaluator.py                  # Batch mode
 python meteor_evaluator.py --input-file ../input/data1.txt  # Single file
 
 # Step 3: Run ROUGE evaluation
-cd ../rogue
+cd ../rouge
 python rouge_evaluator.py                   # Batch mode
 python rouge_evaluator.py --input-file ../input/data1.txt  # Single file
 ```
@@ -334,7 +334,7 @@ python rouge_evaluator.py --input-file ../input/data1.txt  # Single file
 **Available Metrics:**
 - `bert`: BERTScore - Semantic similarity using BERT embeddings (Precision, Recall, F1)
 - `meteor`: METEOR - Translation quality with stemming and synonymy
-- `rogue`: ROUGE - N-gram overlap and sequence matching (ROUGE-1, ROUGE-2, ROUGE-L)
+- `rouge`: ROUGE - N-gram overlap and sequence matching (ROUGE-1, ROUGE-2, ROUGE-L)
 
 ### API Configuration (Optional)
 
