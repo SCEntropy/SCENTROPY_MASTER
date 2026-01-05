@@ -39,14 +39,12 @@ python scripts/run_experiment.py --dataset cifar100 --epochs 10
 
 # Or run individual components
 python scripts/train_and_extract.py --dataset cifar100 --epochs 10
+
+
 python scripts/run_hsc_evaluation.py
 python scripts/run_superclass_entropy.py
 ```
 
-**Expected Runtime:**
-- FashionMNIST: ~10-15 minutes
-- CIFAR-10: ~15-20 minutes
-- CIFAR-100: ~30-40 minutes
 
 ### NLG Clustering (Supplementary)
 
@@ -131,9 +129,10 @@ If you encounter issues:
 
 After running all experiments, you should be able to verify:
 
-1. **Table 1**: Clustering results for three datasets
+1. **Figure 2**: Clustering results for three datasets
 2. **Figure 3a**: HSC distribution showing SHC advantage
 3. **Figure 3b**: Generalization across entropy thresholds
 4. **Qualitative results**: Semantic hierarchy visualization
+5. **Table 1**: NLG performances (BERTscore, Metero and ROUGE)
 
 Total time to reproduce all results: **~1-2 hours** (depending on hardware)
