@@ -40,8 +40,10 @@ python scripts/run_experiment.py --dataset cifar100 --epochs 10
 # Or run individual components
 python scripts/train_and_extract.py --dataset cifar100 --epochs 10
 
-
+# Fig.3a
 python scripts/run_hsc_evaluation.py
+
+# Fig.3b
 python scripts/run_superclass_entropy.py
 ```
 
