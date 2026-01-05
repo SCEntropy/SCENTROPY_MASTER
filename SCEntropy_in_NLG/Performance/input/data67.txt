@@ -1,0 +1,9 @@
+### REFERENCE ###
+Once a fault is detected, the system initiates a selfhealing process.
+
+### UNCONSTRAINED ###
+Upon identifying an anomaly, the mechanism automatically engages its internal recovery procedure.
+
+### CONSTRAINED ###
+Upon identification of a fault, the system autonomously activates its selfrecovery protocol.
+

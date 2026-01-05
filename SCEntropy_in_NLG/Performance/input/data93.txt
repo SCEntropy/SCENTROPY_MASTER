@@ -1,0 +1,9 @@
+### REFERENCE ###
+Establish a system for reporting errors and anomalies in AIgenerated proofs.
+
+### UNCONSTRAINED ###
+Implement a framework to document and address irregularities found in proofs produced by artificial intelligence.
+
+### CONSTRAINED ###
+To establish a system for reporting errors and anomalies in AIgenerated proofs, it is essential to create a structured framework that allows users to identify and document any inconsistencies or mistakes found in the proofs produced by artificial intelligence.
+

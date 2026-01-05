@@ -1,0 +1,9 @@
+### REFERENCE ###
+Apply blackbox analysis to understand the model's decisionmaking process without looking at its inner workings.
+
+### UNCONSTRAINED ###
+Employ opaque system examination to comprehend how the model reaches conclusions, bypassing any inspection of its internal mechanisms.
+
+### CONSTRAINED ###
+Blackbox analysis is used to gain insights into how the model makes decisions by examining its inputs and outputs without delving into its internal mechanisms.
+

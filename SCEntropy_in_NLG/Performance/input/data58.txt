@@ -1,0 +1,9 @@
+### REFERENCE ###
+Interpret the confidence interval as a range within which the true population mean is likely to fall with the specified confidence level.
+
+### UNCONSTRAINED ###
+Regard the confidence interval as the probable span where the actual average of the entire group resides, given the chosen degree of certainty.
+
+### CONSTRAINED ###
+The confidence interval represents a range of values within which the true population mean is expected to lie, given the chosen confidence level, indicating the reliability of the estimate.
+

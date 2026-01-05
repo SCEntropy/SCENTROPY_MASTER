@@ -1,0 +1,9 @@
+### REFERENCE ###
+Evaluate the ability of new energy stations to respond quickly to changes in grid inertia requirements by simulating various grid disturbances.
+
+### UNCONSTRAINED ###
+Assess how effectively alternative power facilities can adapt to fluctuating grid stability demands through simulated disruption scenarios.
+
+### CONSTRAINED ###
+Assess the responsiveness of advanced energy generation facilities to dynamic grid inertia demands by modeling a range of grid disturbance scenarios.
+

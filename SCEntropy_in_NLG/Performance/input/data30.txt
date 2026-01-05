@@ -1,0 +1,9 @@
+### REFERENCE ###
+Keep the technology uptodate with the latest advancements and perform regular maintenance to ensure optimal performance.
+
+### UNCONSTRAINED ###
+Continuously integrate cutting-edge innovations into the systems and conduct scheduled upkeep for peak operational efficiency.
+
+### CONSTRAINED ###
+To maintain optimal performance, it is essential to keep the technology updated with the most recent advancements and conduct routine maintenance.
+

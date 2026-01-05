@@ -1,0 +1,9 @@
+### REFERENCE ###
+Compare the panel's responses to the autonomous driving system's decisionmaking algorithms.
+
+### UNCONSTRAINED ###
+Analyze how the committee's feedback aligns with the self-driving car's computational reasoning processes.
+
+### CONSTRAINED ###
+The analysis involves comparing how the panel's responses align with or differ from the decisionmaking algorithms used by the autonomous driving system.
+

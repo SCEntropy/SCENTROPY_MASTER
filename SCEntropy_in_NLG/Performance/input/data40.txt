@@ -1,0 +1,9 @@
+### REFERENCE ###
+Evaluate the transportation infrastructure to ensure it can accommodate changes in traffic flow, such as reduced peakhour congestion and altered parking requirements.
+
+### UNCONSTRAINED ###
+Assess the road and transit systems to confirm their capacity to handle shifts in vehicular movement, including decreased rush-hour gridlock and modified parking demands.
+
+### CONSTRAINED ###
+To properly evaluate the transportation infrastructure, it is essential to assess its capacity to handle shifts in traffic patterns, including potential reductions in peakhour congestion and adjustments to parking demands.
+

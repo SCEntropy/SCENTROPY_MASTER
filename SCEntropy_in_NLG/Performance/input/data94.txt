@@ -1,0 +1,9 @@
+### REFERENCE ###
+Apply statistical methods to refine the uncertainty estimates, such as calculating prediction intervals or confidence bounds.
+
+### UNCONSTRAINED ###
+Employ techniques from statistics to enhance the precision of error assessments, for instance by deriving ranges for forecasts or margins of confidence.
+
+### CONSTRAINED ###
+Utilize statistical techniques to enhance the precision of uncertainty assessments, including the computation of prediction intervals or confidence limits.
+

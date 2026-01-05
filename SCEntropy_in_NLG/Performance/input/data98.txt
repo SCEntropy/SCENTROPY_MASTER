@@ -1,0 +1,9 @@
+### REFERENCE ###
+Test the system: Apply the evaluation index system to a sample set of AI creations to test its reliability and validity.
+
+### UNCONSTRAINED ###
+Evaluate the framework's dependability and accuracy by implementing its assessment metrics on a collection of artificial intelligence-generated samples.
+
+### CONSTRAINED ###
+To test the system, the evaluation index system should be applied to a sample set of AIgenerated creations to assess its reliability and validity.
+

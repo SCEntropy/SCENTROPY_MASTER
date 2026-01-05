@@ -1,0 +1,9 @@
+### REFERENCE ###
+Implement thermal management techniques such as heat sinks, fans, or phasechange materials to maintain optimal operating temperatures, as high temperatures can increase energy consumption.
+
+### UNCONSTRAINED ###
+Employ cooling methods like heat exchangers, blowers, or materials that alter state to preserve ideal working conditions, since elevated heat levels may lead to greater power usage.
+
+### CONSTRAINED ###
+To maintain optimal operating temperatures and prevent increased energy consumption caused by high temperatures, it is essential to implement thermal management techniques like heat sinks, fans, or phasechange materials.
+

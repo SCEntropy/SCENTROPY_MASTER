@@ -1,0 +1,9 @@
+### REFERENCE ###
+Determine the pathogenicity of the viruses in both species.
+
+### UNCONSTRAINED ###
+Assess the disease-causing potential of these viruses within each of the two animal groups.
+
+### CONSTRAINED ###
+The study aims to assess and determine the pathogenicity of the viruses present in both species to understand their potential to cause disease.
+

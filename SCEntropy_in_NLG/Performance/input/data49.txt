@@ -1,0 +1,9 @@
+### REFERENCE ###
+Here's the stepbystep process:Researchers develop organoids or cell cultures that represent specific human tissues, such as liver, kidney, or heart.
+
+### UNCONSTRAINED ###
+Scientists create miniature tissue models, like those of hepatic, renal, or cardiac origin, using cultured cells or organoids in a sequential methodology.
+
+### CONSTRAINED ###
+Scientists engineer organoids or in vitro cell cultures to model distinct human tissues, including hepatic, renal, and cardiac structures.
+

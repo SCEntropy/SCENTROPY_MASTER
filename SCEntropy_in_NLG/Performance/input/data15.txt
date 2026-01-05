@@ -1,0 +1,9 @@
+### REFERENCE ###
+Legal and ethical considerations: Compliance with legal regulations and ethical guidelines regarding organ allocation and patient care.
+
+### UNCONSTRAINED ###
+Adherence to established laws and moral principles governing the distribution of organs and the treatment of patients is a necessary requirement.
+
+### CONSTRAINED ###
+Adherence to statutory requirements and moral principles governing organ distribution protocols and the provision of patientcentered care.
+

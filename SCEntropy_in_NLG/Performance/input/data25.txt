@@ -1,0 +1,9 @@
+### REFERENCE ###
+Select privacypreserving techniques: Choose appropriate methods like secure multiparty computation (SMPC), homomorphic encryption, or secure aggregation to ensure that data is processed and transmitted securely.
+
+### UNCONSTRAINED ###
+Employ cryptographic approaches such as secure aggregation, homomorphic encryption, or secure multi-party computation to safeguard data during processing and transfer.
+
+### CONSTRAINED ###
+: Employ suitable cryptographic approaches such as secure multiparty computation (SMPC), homomorphic encryption, or secure aggregation to guarantee the confidential processing and transmission of sensitive data.
+

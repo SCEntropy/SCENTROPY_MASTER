@@ -1,0 +1,9 @@
+### REFERENCE ###
+When learning new data, randomly sample from this buffer to prevent the model from overfitting to the new data.
+
+### UNCONSTRAINED ###
+To avoid the model becoming too specialized to recent information, draw arbitrary selections from this storage pool during training.
+
+### CONSTRAINED ###
+To avoid the model overfitting to the new data, it is essential to randomly sample from the buffer during the learning process.
+

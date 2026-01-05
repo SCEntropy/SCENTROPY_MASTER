@@ -1,0 +1,9 @@
+### REFERENCE ###
+This includes visualizing the data, calculating key performance indicators, and interpreting the results.
+
+### UNCONSTRAINED ###
+The process entails creating graphical representations of information, computing essential metrics, and deriving meaning from the findings.
+
+### CONSTRAINED ###
+The process involves visualizing the data to identify patterns and trends, calculating key performance indicators to measure progress and efficiency, and interpreting the results to draw meaningful conclusions.
+

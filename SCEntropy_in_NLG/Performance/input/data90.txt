@@ -1,0 +1,9 @@
+### REFERENCE ###
+Document the entire testing process, including methodologies, test cases, results, and any lessons learned.
+
+### UNCONSTRAINED ###
+Record all aspects of the evaluation procedure, encompassing the approaches used, specific scenarios examined, outcomes observed, and insights gained.
+
+### CONSTRAINED ###
+The testing process should be thoroughly documented, covering all methodologies employed, the specific test cases executed, the outcomes of those tests, and any key lessons learned during the process.
+

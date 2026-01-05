@@ -1,0 +1,9 @@
+### REFERENCE ###
+Here's a stepbystep description of these paradigms:Utilize VR to create simulated environments that mimic realworld physical tasks.
+
+### UNCONSTRAINED ###
+These methodologies employ virtual reality to construct artificial settings that replicate activities requiring physical exertion.
+
+### CONSTRAINED ###
+The process involves using virtual reality technology to develop simulated environments that closely replicate realworld physical tasks, allowing users to interact with digital representations of actual scenarios.
+

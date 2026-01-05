@@ -1,0 +1,9 @@
+### REFERENCE ###
+Draw conclusions based on the evidence gathered and propose recommendations for policymakers, regulators, and the financial industry to adapt to the changing landscape.
+
+### UNCONSTRAINED ###
+Analyze the collected data to formulate insights and suggest actionable steps for government officials, oversight bodies, and banking institutions to navigate the evolving environment.
+
+### CONSTRAINED ###
+Analyze the accumulated data to derive informed inferences and develop strategic guidance for legislative authorities, governing entities, and financial sector stakeholders to effectively navigate evolving market conditions.
+

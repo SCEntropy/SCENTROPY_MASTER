@@ -1,0 +1,9 @@
+### REFERENCE ###
+Compare the values of young people engaged with virtual idols to those not engaged, controlling for demographic variables.
+
+### UNCONSTRAINED ###
+Examine how demographic-adjusted values differ between youth who follow digital celebrities and those who do not.
+
+### CONSTRAINED ###
+the differences in value systems between young individuals who interact with virtual idols and those who do not, while accounting for demographic covariates.
+

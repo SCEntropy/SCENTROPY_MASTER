@@ -1,0 +1,9 @@
+### REFERENCE ###
+This includes collecting feedback and data on the system's utility.
+
+### UNCONSTRAINED ###
+Feedback and information regarding the system's effectiveness are gathered as part of this process.
+
+### CONSTRAINED ###
+The process involves gathering feedback and data to evaluate how useful the system is in practice.
+

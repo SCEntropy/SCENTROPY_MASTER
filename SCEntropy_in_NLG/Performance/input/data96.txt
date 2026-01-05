@@ -1,0 +1,9 @@
+### REFERENCE ###
+This includes data sourcing, cleaning, and storage protocols.
+
+### UNCONSTRAINED ###
+The procedures for acquiring, refining, and archiving information are encompassed here.
+
+### CONSTRAINED ###
+The process encompasses data sourcing, which involves gathering raw information, followed by data cleaning to remove inconsistencies, and finally establishing storage protocols to ensure secure and organized retention.
+

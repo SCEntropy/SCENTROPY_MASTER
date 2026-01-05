@@ -1,0 +1,9 @@
+### REFERENCE ###
+Biocompatibility testing: Implementing rigorous biocompatibility testing protocols to assess and validate the immunogenicity of 3D bioprinted organs before clinical use.
+
+### UNCONSTRAINED ###
+Prior to clinical application, 3D-printed organs must undergo stringent assessments to verify their immunological safety through established biocompatibility evaluation procedures.
+
+### CONSTRAINED ###
+Establishing comprehensive biocompatibility assessments to rigorously examine and confirm the immunological safety of bioprinted organ constructs prior to their introduction into clinical applications.
+

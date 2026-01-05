@@ -1,0 +1,9 @@
+### REFERENCE ###
+Here is a stepbystep description:Familiarize with local, national, and international regulations, such as the International Commission on NonIonizing Radiation Protection (ICNIRP) guidelines, which establish safety limits for exposure to EM fields.
+
+### UNCONSTRAINED ###
+To ensure compliance, one must first become acquainted with the safety standards for electromagnetic field exposure set by various governing bodies, including the ICNIRP at the global level.
+
+### CONSTRAINED ###
+The first step involves becoming acquainted with local, national, and international regulations, including the guidelines set by the International Commission on NonIonizing Radiation Protection (ICNIRP), which define safety thresholds for electromagnetic field exposure.
+

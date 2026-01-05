@@ -1,0 +1,9 @@
+### REFERENCE ###
+By following these steps, braininspired computing architecture has the potential to break through the von Neumann bottleneck, which is the constraint imposed by the sequential processing of data in traditional computers, leading to slower performance and higher energy consumption.
+
+### UNCONSTRAINED ###
+Adopting this methodology could enable neuromorphic systems to overcome the limitations of conventional computing, where sequential data handling causes inefficiencies in speed and power use.
+
+### CONSTRAINED ###
+Adherence to these methodological principles enables braininspired computing architectures to overcome the limitations of the von Neumann bottleneck—a fundamental constraint arising from sequential data processing in conventional computing systems, which results in suboptimal performance efficiency and elevated power dissipation.
+

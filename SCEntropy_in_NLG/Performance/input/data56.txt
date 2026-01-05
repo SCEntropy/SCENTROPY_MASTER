@@ -1,0 +1,9 @@
+### REFERENCE ###
+Use the assessment to inform decisionmaking regarding the implementation of gene drive technology for malaria prevention and control, balancing potential benefits with risks and ethical considerations.
+
+### UNCONSTRAINED ###
+Employ the evaluation's findings to guide choices about deploying gene drive systems against malaria, weighing possible advantages against hazards and moral concerns.
+
+### CONSTRAINED ###
+Leverage the evaluation to guide strategic decisions on deploying gene drive systems for malaria mitigation, carefully weighing anticipated advantages against possible hazards and moral implications.
+

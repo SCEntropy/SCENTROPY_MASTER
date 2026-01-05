@@ -1,0 +1,9 @@
+### REFERENCE ###
+Smart Contracts: These selfexecuting contracts contain the rules and logic required to manage and control data sharing.
+
+### UNCONSTRAINED ###
+Automated agreements, which operate autonomously, embed the necessary protocols and reasoning to govern the exchange of information.
+
+### CONSTRAINED ###
+Here are alternative phrasings that meet your criteria:
+

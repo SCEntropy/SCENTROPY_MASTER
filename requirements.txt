@@ -1,0 +1,42 @@
+# SCEntropy Master Project - Combined Requirements
+# This file contains all dependencies for both Visual Concept Discovery and NLG modules
+
+# ============================================
+# Core Deep Learning Frameworks
+# ============================================
+torch>=1.9.0
+torchvision>=0.10.0
+transformers>=4.20.0
+sentence-transformers>=2.2.0
+
+# ============================================
+# API Clients (for NLG module)
+# ============================================
+zhipuai>=2.0.0
+openai>=1.0.0
+
+# ============================================
+# Scientific Computing
+# ============================================
+numpy>=1.21.0
+scipy>=1.7.0
+scikit-learn>=1.0.0
+pandas>=1.3.0
+
+# ============================================
+# Evaluation Metrics (for NLG module)
+# ============================================
+bert-score>=0.3.0
+rouge-score>=0.0.4
+
+# ============================================
+# Visualization and Progress
+# ============================================
+matplotlib>=3.4.0
+tqdm>=4.62.0
+
+# ============================================
+# Utilities
+# ============================================
+python-dotenv>=1.0.0
+typing-extensions>=3.10.0; python_version < '3.10'

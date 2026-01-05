@@ -1,0 +1,9 @@
+### REFERENCE ###
+Document all changes and improvements made to the system.
+
+### UNCONSTRAINED ###
+Maintain a comprehensive record of every modification and enhancement implemented within the system.
+
+### CONSTRAINED ###
+It is essential to thoroughly document every change and improvement implemented within the system to maintain a clear record of updates.
+

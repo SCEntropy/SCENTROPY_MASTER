@@ -1,0 +1,9 @@
+### REFERENCE ###
+This involves manipulating input images or data in a way that the AI model misclassifies or produces incorrect results.
+
+### UNCONSTRAINED ###
+By altering source material, artificial intelligence systems can be deceived into making erroneous judgments or generating faulty outputs.
+
+### CONSTRAINED ###
+This process entails altering input images or datasets to induce erroneous classifications or inaccurate outputs from the AI model.
+

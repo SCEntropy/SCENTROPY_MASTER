@@ -1,0 +1,9 @@
+### REFERENCE ###
+This includes understanding the biases inherent in the data and actively working to mitigate them.
+
+### UNCONSTRAINED ###
+It is essential to recognize the prejudices embedded within the dataset and to take deliberate steps to reduce their influence.
+
+### CONSTRAINED ###
+This entails recognizing the biases embedded within the dataset and implementing deliberate strategies to minimize their impact.
+

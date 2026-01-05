@@ -1,0 +1,9 @@
+### REFERENCE ###
+For example, they can trigger alerts if the temperature outside the acceptable range is exceeded.
+
+### UNCONSTRAINED ###
+As an illustration, notifications may be activated when readings fall outside the designated thermal parameters.
+
+### CONSTRAINED ###
+For example, these systems can activate alerts when the temperature goes beyond the acceptable range, ensuring immediate notification of any deviations.
+

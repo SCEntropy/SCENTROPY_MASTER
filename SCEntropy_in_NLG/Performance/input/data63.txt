@@ -1,0 +1,9 @@
+### REFERENCE ###
+This includes understanding the mechanisms of action and previous findings on the efficacy of different dosages.
+
+### UNCONSTRAINED ###
+Comprehending how treatments operate and what prior research has established regarding effective strength levels is also part of this.
+
+### CONSTRAINED ###
+This involves gaining a thorough comprehension of the mechanisms of action, as well as reviewing prior research findings that evaluate the effectiveness of various dosage levels.
+

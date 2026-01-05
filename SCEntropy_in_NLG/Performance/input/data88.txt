@@ -1,0 +1,9 @@
+### REFERENCE ###
+Employ expert chemists to analyze the predicted synthetic pathway, considering factors like chemical reactivity, solubility, and pharmacokinetics.
+
+### UNCONSTRAINED ###
+Engage specialized chemistry professionals to evaluate the proposed synthesis route, taking into account elements such as reactivity of compounds, dissolution properties, and drug metabolism characteristics.
+
+### CONSTRAINED ###
+Engage specialized chemists to conduct a comprehensive analysis of the anticipated synthetic route, incorporating critical parameters such as reaction kinetics, dissolution properties, and drug metabolism characteristics.
+

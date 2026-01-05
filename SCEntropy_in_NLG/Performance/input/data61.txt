@@ -1,0 +1,9 @@
+### REFERENCE ###
+By systematically extracting and reducing features, and applying regularization and crossvalidation, radiomics feature extraction helps create a model that is less likely to overfit, even when dealing with small sample sizes in the context of small sample learning.
+
+### UNCONSTRAINED ###
+Through the methodical selection and refinement of attributes, along with the implementation of regularization and cross-validation techniques, radiomics analysis facilitates the development of a predictive framework that resists overfitting, particularly in scenarios involving limited datasets characteristic of small-sample learning.
+
+### CONSTRAINED ###
+Through methodical feature extraction and dimensionality reduction, coupled with regularization techniques and crossvalidation procedures, radiomics facilitates the development of robust predictive models with reduced susceptibility to overfitting, particularly in small sample learning scenarios where data scarcity is a challenge.
+

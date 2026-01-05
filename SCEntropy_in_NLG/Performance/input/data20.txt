@@ -1,0 +1,9 @@
+### REFERENCE ###
+Advancing communication technologies: Utilize highspeed communication networks to enable realtime data exchange and control actions between various grid components, enhancing the grid's overall responsiveness to SSO threats.
+
+### UNCONSTRAINED ###
+Employing rapid data transmission systems facilitates instantaneous information sharing and command execution across diverse grid elements, thereby improving the network's capacity to react promptly to subsynchronous oscillation risks.
+
+### CONSTRAINED ###
+Advancing communication technologies involves leveraging highspeed communication networks to facilitate realtime data exchange and control actions among different grid components, which significantly improves the grid's ability to respond swiftly to SSO threats.
+

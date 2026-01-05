@@ -1,0 +1,9 @@
+### REFERENCE ###
+Based on the model's outcomes, provide recommendations on whether to proceed with the superconducting cable project, considering the financial, environmental, and operational aspects.
+
+### UNCONSTRAINED ###
+Drawing from the projected results, offer guidance regarding the advisability of advancing the high-temperature cable initiative, taking into account its economic, ecological, and functional implications.
+
+### CONSTRAINED ###
+Drawing upon the model’s analytical results, furnish strategic recommendations regarding the viability of advancing the superconducting cable initiative, with due consideration given to fiscal, ecological, and functional dimensions.
+

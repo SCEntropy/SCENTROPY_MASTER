@@ -1,0 +1,9 @@
+### REFERENCE ###
+This environment should mimic the smart grid's dynamics, including energy generation, consumption, and storage capabilities.
+
+### UNCONSTRAINED ###
+The simulated setting must replicate the operational characteristics of an intelligent power network, encompassing the production, utilization, and retention of electricity.
+
+### CONSTRAINED ###
+The simulated environment must accurately replicate the operational dynamics of a smart grid, encompassing power generation, load demand, and energy storage functionalities.
+

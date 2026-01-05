@@ -1,0 +1,9 @@
+### REFERENCE ###
+Document findings: Record all risk assessments, mitigation strategies, and outcomes in a comprehensive clinical report, ensuring that the information is accessible for future reference and analysis.
+
+### UNCONSTRAINED ###
+Compile a detailed medical summary that captures every hazard evaluation, precautionary measure, and final result, guaranteeing the data remains available for subsequent review and study.
+
+### CONSTRAINED ###
+Document findings by thoroughly recording all risk assessments, mitigation strategies, and outcomes in a detailed clinical report to ensure the information is preserved for future reference and analysis.
+

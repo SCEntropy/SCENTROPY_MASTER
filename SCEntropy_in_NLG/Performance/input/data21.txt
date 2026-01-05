@@ -1,0 +1,9 @@
+### REFERENCE ###
+These factors relate the energy use to greenhouse gas emissions.
+
+### UNCONSTRAINED ###
+Energy consumption is directly linked to the production of greenhouse gases.
+
+### CONSTRAINED ###
+These factors establish a direct connection between energy consumption and the release of greenhouse gases, demonstrating how energy use influences emission levels.
+

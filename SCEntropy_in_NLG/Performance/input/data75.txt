@@ -1,0 +1,9 @@
+### REFERENCE ###
+This involves subjecting the system to various operating conditions to validate the effectiveness of the strategy.
+
+### UNCONSTRAINED ###
+The approach requires testing the system under diverse operational scenarios to confirm the strategy's efficacy.
+
+### CONSTRAINED ###
+This process entails exposing the system to a range of different operating conditions in order to thoroughly assess and confirm the strategy's effectiveness.
+

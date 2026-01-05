@@ -1,0 +1,9 @@
+### REFERENCE ###
+Document the entire modeling and prediction process, including the methodologies, assumptions, and findings, for future reference and peer review.
+
+### UNCONSTRAINED ###
+Maintain a comprehensive record of the complete analytical and forecasting workflow, encompassing all techniques, underlying premises, and results, to facilitate subsequent consultation and evaluation by colleagues.
+
+### CONSTRAINED ###
+The entire modeling and prediction process should be thoroughly documented, covering the methodologies employed, the underlying assumptions, and the key findings, to serve as a reference for future work and to facilitate peer review.
+

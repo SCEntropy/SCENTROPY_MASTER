@@ -1,0 +1,9 @@
+### REFERENCE ###
+Integrate the harmonic suppression system into the EV's production line or retrofit it into existing vehicles.
+
+### UNCONSTRAINED ###
+Implement the system for reducing harmonics either during the assembly of electric vehicles or by adding it to those already manufactured.
+
+### CONSTRAINED ###
+The harmonic suppression system should be seamlessly incorporated into the electric vehicle's production line during manufacturing or alternatively adapted and installed into vehicles that are already in use.
+

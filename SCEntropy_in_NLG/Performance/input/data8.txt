@@ -1,0 +1,9 @@
+### REFERENCE ###
+Assess the likelihood of unintended effects on nontarget species and ecosystems, such as gene silencing or activation of genes with adverse ecological impacts.
+
+### UNCONSTRAINED ###
+Evaluate the potential for unforeseen consequences in non-target organisms and their environments, including the suppression or unintended stimulation of genes that could harm ecological systems.
+
+### CONSTRAINED ###
+Evaluate the probability of unintended consequences affecting nontarget species and ecosystems, including potential gene silencing or the activation of genes that could lead to harmful ecological outcomes.
+

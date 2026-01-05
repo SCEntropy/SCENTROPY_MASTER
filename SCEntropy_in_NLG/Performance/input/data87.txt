@@ -1,0 +1,9 @@
+### REFERENCE ###
+Continuously monitor the system for any signs of attack and evaluate the defense mechanism's performance over time, making adjustments as necessary.
+
+### UNCONSTRAINED ###
+Maintain ongoing surveillance of the system to detect potential threats, while periodically assessing the efficacy of protective measures and implementing modifications when needed.
+
+### CONSTRAINED ###
+The system should be monitored on an ongoing basis to detect any indications of potential attacks, while simultaneously assessing how effectively the defense mechanisms are performing as time progresses, with modifications being implemented whenever required.
+

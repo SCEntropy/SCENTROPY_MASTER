@@ -1,0 +1,9 @@
+### REFERENCE ###
+Choose a causal inference framework that can handle observational data, such as propensity score matching or structural causal models, to understand the causeandeffect relationships.
+
+### UNCONSTRAINED ###
+Select a methodology for causal analysis capable of processing non-experimental data, like structural causal models or propensity score matching, to investigate causal connections.
+
+### CONSTRAINED ###
+To accurately analyze causeandeffect relationships in observational data, it is essential to select a suitable causal inference framework, such as propensity score matching or structural causal models, which are specifically designed to address confounding variables and biases.
+

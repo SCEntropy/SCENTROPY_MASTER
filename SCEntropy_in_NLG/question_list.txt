@@ -1,0 +1,212 @@
+﻿Social Field (8 questions)
+1.How can the universality of autonomous driving ethical decision-making systems be assessed across different cultural contexts?
+
+2.What is the adaptive reconstruction path of the social security system under the gig economy model?
+
+3.In the field of educational technology, how can algorithm-driven personalized resource allocation avoid exacerbating structural inequalities in educational resources?
+
+4.How can the digital preservation of cultural heritage balance commercial development and cultural authenticity?
+
+5. In the context of an aging society, how can we design intelligent communities for intergenerational co-living?
+
+6. What practical challenges are faced in determining the international legal status of climate refugees?
+
+7. What new types of social governance mechanisms are needed for digital identity authentication systems in the metaverse?
+
+8. How can the ecological risk transmission mechanisms of gene editing technology in agricultural applications be assessed?
+
+Medical Field (8 questions)
+9. How Personalized Medical Plans Address the Matthew Effect in Healthcare Resource Allocation？
+
+10. How to Quantitatively Assess the Neuroplasticity Risks in the Clinical Application of Brain-Computer Interface Technology？
+
+11. How should the ethical review framework for phage therapy be constructed in the context of the antibiotic resistance crisis？
+
+12. How can AI-assisted diagnosis balance efficiency improvement with the doctor-patient trust relationship？
+
+13. How Epigenetics Research is Reshaping Chronic Disease Prevention Strategies？
+
+14. How to define the boundaries of privacy protection in the digital diagnosis and treatment of mental illnesses？
+
+15. What non-medical factors should the organ transplant priority algorithm take into account？
+
+16. How can medical big data mining avoid the bias of group characteristics on individual diagnosis and treatment？
+
+
+Electrical Field (7 Questions)
+17. How can dynamic pricing mechanisms in smart grids balance energy efficiency optimization and social fairness？
+
+18. What new electromagnetic safety standards are needed for the layout of wireless charging infrastructure？
+
+19. How to coordinate traditional equipment and digital twin technology to enhance the resilience of power systems？
+
+20. What are the innovative directions for suppressing subsynchronous oscillations caused by the integration of new energy sources into the grid?？
+
+21. In the context of the Industrial Internet of Things, how to build a full life cycle carbon footprint model for equipment？
+
+22. A Framework for Compound Risk Assessment of UHV Transmission Corridors under Extreme Weather Events？
+
+23. What new challenges does demand-side management face in the electrification of buildings？
+
+Field of Artificial Intelligence (7 questions)
+24. What new requirements does the cognitive emergence phenomenon of multimodal large models pose for interpretability research？
+
+25. How to Achieve a Quantitative Balance Between Data Value and Privacy Protection in a Federated Learning Framework？
+
+26. What legal innovations are needed to identify the moral responsibility of embodied intelligent systems？
+
+27. What new standards should be followed in determining the copyright ownership of works created by generative AI？
+
+28. Principles for Constructing Ethical Decision Trees for Autonomous Driving Systems in 'Inevitable Accident' Scenarios？
+
+29. How can AI-assisted research prevent path dependency risks in academic innovation？
+
+30. How should the boundaries of applying affective computing technology in mental health services be defined？
+
+
+Social Field (17 questions)
+31. How to assess the spatial restructuring effects of the widespread adoption of digital currency on the traditional financial regulatory system？
+
+32. How can the governance of cross-border data flows balance national security and the development of the digital economy?？
+
+33. How Digital Twin Technology in Smart City Development is Reshaping Public Crisis Response Mechanisms？
+
+34. How to Block the Transmission Path of Algorithmic Bias in Judicial Sentencing Assistance Systems？
+
+35. How should a cross-border ethical regulatory framework be established in the process of legalizing surrogacy technology？
+
+36. What new types of certification standards are needed for a blockchain evidence system for intangible cultural heritage？
+
+37. How to Analyze the Mechanisms of Human-Machine Relationship Alienation Behind Social Media Fatigue？
+
+38. What are the design principles for resident behavior incentive mechanisms in the construction of zero-carbon communities？
+
+39. How can the potential risks of the virtual idol industry influencing teenagers' values be quantified？
+
+40. How to Restructure the Functional Layout of Urban Space in the Context of Normalized Remote Work？
+
+41. Pathways for Constructing a Risk Prevention and Control System for the Misuse of Genetic Information Triggered by the Widespread Use of Genetic Testing Technology？
+
+42. What new property rights system innovations are needed for the legal recognition of digital inheritance？
+
+43. How to balance the double-edged sword effect of cognitive enhancement technology in promoting educational equity？
+
+44. How to Coordinate Ecological Protection and Geopolitical Interests in Deep-Sea Resource Development？
+
+45. What social engineering interventions are needed to break the cognitive bubbles caused by algorithmic recommendations？
+
+46. What challenges does the reconstruction of the cross-border tax administration system for digital nomads face？
+
+47. What new legislative frameworks are needed to protect labor rights in the metaverse？
+
+
+
+Medical Field (17 items)
+48. How to Model and Predict the Immune Evasion Risks of Nanorobot Targeted Drug Delivery Systems？
+
+49. How organ-on-a-chip technology addresses species differences in drug testing？
+
+50. How are the ethical boundaries of optogenetic neuromodulation technology in addiction treatment defined？
+
+51. Principles for Establishing a Long-term Ecological Risk Monitoring System for Microbiome Transplant Therapy？
+
+52.3D Bioprinting: What Technological Breakthroughs Are Needed to Control the Immunogenicity of Organs？
+
+53. How to build a defense mechanism against adversarial attacks in an AI pathology diagnostic system？
+
+54. How Phenome Research Drives the Transformation of Diagnosis and Treatment Paradigms for Rare Diseases？
+
+55. How to Prevent the Development of Digital Therapy Addiction in Healthcare Metaverse Applications？
+
+56. Framework for Ecological Safety Assessment of Gene Drive Technology in Malaria Control？
+
+57. Paradigm-Shifting Approaches in Chronic Pain Management through Brain-Gut Axis Regulation Mechanisms？
+
+58. How to use continuous monitoring data from wearable devices to construct disease warning confidence intervals？
+
+59. How to Quantitatively Assess the Risk of Cross-Species Virus Transmission in Xenotransplantation？
+
+60. Construction of a Validation System for Digital Twin Hearts in Personalized Surgical Planning？
+
+61. How can radiomics feature extraction address overfitting in small sample learning？
+
+62. What blockchain innovations are needed for the cold chain logistics traceability system of cell therapy products？
+
+63. Dose-Response Model of Ultrasound Neuromodulation Technology in the Treatment of Depression？
+
+64. How medical blockchain can achieve unified sensitive data sharing and GDPR compliance？
+
+
+Electrical field (18 new questions added)
+65. Analysis of the Speed Improvement Path of Quantum Computing for Optimal Power Flow Calculation in Power Grids？
+
+66. Construction of an Optimized Hybrid Configuration Model for Hydrogen Energy Storage Systems and Lithium Batteries？
+
+67. Self-Healing Control Strategy of Flexible DC Transmission Systems Under Extreme Weather Conditions？
+
+68. Innovative Directions for Shading Compensation Algorithms in Building-Integrated Photovoltaic Systems？
+
+69. Strategies for Suppressing Harmonic Distortion in Distribution Networks under the V2G Mode of Electric Vehicles？
+
+70. Design of Virtual-Real Interaction Delay Compensation Mechanism for Digital Twin Substations？
+
+71. Economic Evaluation Model of Superconducting Cables in Urban Power Grid Expansion？
+
+72. Optimization Path for Microwave Energy Transmission Efficiency of Space Solar Power Stations？
+
+73. Defense Mechanism for Smart Contract Vulnerabilities in Blockchain Settlement Systems of the Electricity Market？
+
+74. Optimization Scheme for Energy Efficiency Ratio of Edge Computing Nodes in Distribution IoT？
+
+75. Mechanical-Electromagnetic Coupling Vibration Suppression Strategy for Magnetic Levitation Flywheel Energy Storage？
+
+76. Research and Development Directions for New Materials in High-Voltage DC Circuit Breaker Arc Plasma Control？
+
+77. Mechanism for Enhancing System Inertia Support through Networked Control of New Energy Power Stations？
+
+78. Collaborative Defense Architecture for Cyber-Physical Power Systems Against Cross-Space Attacks？
+
+79. Dynamic Prediction Model of Mechanical Loads on Transmission Lines under Extreme Freezing Weather？
+
+80. Energy Harvesting Optimization of Wireless Sensor Networks in Cable Tunnel Monitoring？
+
+81. Standard for Full Lifecycle Data Integration of Electrician Equipment Digital Passport？
+
+82. Pathways to Improve the Multi-Physical Field Coupling Simulation Accuracy of Power Metaverse Training Systems？
+
+Field of Artificial Intelligence (18 New Questions)
+83. How neural symbolic systems achieve the organic integration of commonsense reasoning and deep learning？
+
+84. Strategies to Prevent Catastrophic Forgetting of Continual Learning Algorithms in Medical Diagnosis？
+
+85. Game Equilibrium Solution of Multi-Agent Reinforcement Learning in Smart Grid Scheduling？
+
+86. How Causal Inference Models Correct Popularity Bias in Recommendation Systems？
+
+87. Innovation in Defense Mechanisms Against Gradient Inversion Attacks in Federated Learning Frameworks？
+
+88. Methods for Verifying the Reliability of Synthetic Pathways in Drug Discovery Using Generative AI？
+
+89. How Brain-Inspired Computing Architectures Can Overcome the Von Neumann Bottleneck？
+
+90. Test Framework for the Expected Functional Safety Scenario Generalization Capability of Autonomous Driving Systems？
+
+91. What new training paradigms are needed for acquiring physical common sense in embodied intelligence？
+
+92. Technical Approaches to Enhancing the Explainability of Chain-of-Thought Reasoning in Large Models？
+
+93. Mechanism for Establishing Reviewer Trust in AI-Assisted Mathematical Proofs？
+
+94. Uncertainty Quantification Methods for Spatiotemporal Prediction Models of Digital Twin Cities？
+
+95. Optimization Strategies for Self-Organizing Decision-Making of Collective Intelligence in Disaster Rescue？
+
+96. How Explainable AI Meets the Transparency Requirements of Financial Regulation？
+
+97. Design Principles for Algorithms Maintaining Emotional Consistency in Metaverse Digital Humans？
+
+98. Construction of an Evaluation Indicator System for the Aesthetic Value of AI-Created Works？
+
+99. Transfer Learning Strategies of Environment-Adaptive Algorithms in Climate Change Prediction？
+
+100. Energy Efficiency Optimization Path for Neuromorphic Computing Chip with Integrated Computing and Storage Architecture？

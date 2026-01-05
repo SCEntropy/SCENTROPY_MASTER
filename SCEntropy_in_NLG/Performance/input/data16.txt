@@ -1,0 +1,9 @@
+### REFERENCE ###
+Establish a feedback loop with healthcare providers and patients to gather insights on the impact of the model in realworld settings and to make further adjustments as necessary.
+
+### UNCONSTRAINED ###
+Engage medical professionals and those receiving care in an ongoing dialogue to collect observations about the model's practical performance, enabling subsequent refinements when needed.
+
+### CONSTRAINED ###
+To establish a feedback loop with healthcare providers and patients, it is essential to actively collect insights on how the model performs in realworld settings, enabling continuous evaluation of its impact.
+

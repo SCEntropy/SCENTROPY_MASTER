@@ -1,0 +1,9 @@
+### REFERENCE ###
+Continuously monitor the model's performance and collect new data to update the model periodically, ensuring it adapts to any changes in the environmental conditions and remains accurate over time.
+
+### UNCONSTRAINED ###
+Regularly refresh the model with fresh information and track its ongoing effectiveness, guaranteeing sustained precision by adjusting to evolving circumstances.
+
+### CONSTRAINED ###
+To maintain the model's accuracy over time, it is essential to continuously monitor its performance and gather fresh data, enabling periodic updates that allow the model to adapt to shifting environmental conditions.
+

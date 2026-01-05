@@ -1,0 +1,9 @@
+### REFERENCE ###
+For example, a character that is joyful should exhibit behaviors that are joyful, such as smiling or laughing.
+
+### UNCONSTRAINED ###
+To illustrate, a cheerful individual would naturally display corresponding actions like beaming or chuckling.
+
+### CONSTRAINED ###
+A character who is joyful should naturally display behaviors that reflect their joyfulness, such as smiling brightly or laughing heartily.
+

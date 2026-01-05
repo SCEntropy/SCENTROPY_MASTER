@@ -1,0 +1,9 @@
+### REFERENCE ###
+The standard helps organizations comply with relevant regulations and standards by ensuring that the digital passport contains all necessary information for regulatory audits and inspections.
+
+### UNCONSTRAINED ###
+This framework assists entities in meeting applicable legal and compliance obligations through the guarantee that all mandated data for official reviews and examinations is included within the electronic record.
+
+### CONSTRAINED ###
+The framework facilitates organizational adherence to applicable legal and industry requirements by guaranteeing the digital passport incorporates all essential data required for compliance audits and regulatory reviews.
+

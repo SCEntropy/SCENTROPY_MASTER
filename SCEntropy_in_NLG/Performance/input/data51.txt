@@ -1,0 +1,9 @@
+### REFERENCE ###
+Ensure that the monitoring system complies with existing regulations and guidelines set forth by relevant health and environmental authorities.
+
+### UNCONSTRAINED ###
+Confirm that the surveillance framework aligns with current rules and directives issued by pertinent health and environmental oversight bodies.
+
+### CONSTRAINED ###
+The monitoring system must adhere to all current regulations and guidelines established by the appropriate health and environmental authorities to guarantee full compliance.
+

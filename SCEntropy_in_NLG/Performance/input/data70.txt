@@ -1,0 +1,9 @@
+### REFERENCE ###
+Document the entire process and develop training materials to educate users and stakeholders about the compensation mechanism.
+
+### UNCONSTRAINED ###
+Create instructional resources and record all procedures to inform both stakeholders and users regarding the remuneration system.
+
+### CONSTRAINED ###
+Record all procedural steps comprehensively and create instructional resources to inform users and stakeholders regarding the compensation framework.
+

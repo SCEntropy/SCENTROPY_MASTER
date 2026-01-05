@@ -1,0 +1,9 @@
+### REFERENCE ###
+Implement a user education module that informs users about the potential risks of dependency and how to maintain a healthy balance.
+
+### UNCONSTRAINED ###
+Introduce an instructional component to teach individuals about dependency hazards and strategies for preserving equilibrium.
+
+### CONSTRAINED ###
+To implement a user education module, it is essential to design content that clearly explains the potential risks of dependency while also providing practical guidance on how users can maintain a healthy balance in their usage.
+
