@@ -94,9 +94,9 @@ class ROUGEScoreCalculator:
         formatted = {}
         for rouge_type, score_values in scores.items():
             formatted[rouge_type] = {
-                'precision': round(score_values.precision * 100, 2),
-                'recall': round(score_values.recall * 100, 2),
-                'fmeasure': round(score_values.fmeasure * 100, 2)
+                'precision': round(score_values.precision, 4),
+                'recall': round(score_values.recall, 4),
+                'fmeasure': round(score_values.fmeasure, 4)
             }
         return formatted
     
@@ -143,9 +143,9 @@ class ROUGEScoreCalculator:
         average_scores = {}
         for rouge_type, values in all_rouge_types.items():
             average_scores[rouge_type] = {
-                'precision': round(statistics.mean(values['precision']), 2),
-                'recall': round(statistics.mean(values['recall']), 2),
-                'fmeasure': round(statistics.mean(values['fmeasure']), 2)
+                'precision': round(statistics.mean(values['precision']), 4),
+                'recall': round(statistics.mean(values['recall']), 4),
+                'fmeasure': round(statistics.mean(values['fmeasure']), 4)
             }
         
         results = {
