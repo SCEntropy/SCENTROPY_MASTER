@@ -40,10 +40,10 @@ python scripts/run_experiment.py --dataset cifar100 --epochs 10
 # Or run individual components
 python scripts/train_and_extract.py --dataset cifar100 --epochs 10
 
-# Fig.3a ((After python scripts/run_experiment.py --dataset cifar100 --epochs 10 --entropy_threshold 6.0))
+# Fig.3a (After running python scripts/run_experiment.py --dataset cifar100 --epochs 10 --entropy_threshold 6.0)
 python scripts/run_hsc_evaluation.py
 
-# Fig.3b ((After python scripts/run_experiment.py --dataset cifar100 --epochs 10 --entropy_threshold 6.0))
+# Fig.3b ((After running python scripts/run_experiment.py --dataset cifar100 --epochs 10 --entropy_threshold 6.0))
 python scripts/run_superclass_entropy.py
 ```
 
