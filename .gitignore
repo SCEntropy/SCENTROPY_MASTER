@@ -85,8 +85,8 @@ SCEntropy_in_NLG/NL_clustering/all-MiniLM-L6-v2/
 SCEntropy_in_NLG/Performance/bert/bert-base-uncased/
 
 # Results and output files
-SCEnrtopy_in_VisualConceptDiscovery/results/
-SCEnrtopy_in_VisualConceptDiscovery/data/
+SCEntropy_in_VisualConceptDiscovery/results/
+SCEntropy_in_VisualConceptDiscovery/data/
 *.npz
 *.pth
 *.pt

@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ### Visual Concept Discovery (Main Results)
 
 ```bash
-cd SCEnrtopy_in_VisualConceptDiscovery
+cd SCEntropy_in_VisualConceptDiscovery
 
 # Run complete pipeline for each dataset (recommended)
 python scripts/run_experiment.py --dataset fashionmnist --epochs 10
@@ -106,7 +106,7 @@ python scripts/run_hsc_evaluation.py
 ```
 
 **Option 2: Configuration File**
-Edit `SCEnrtopy_in_VisualConceptDiscovery/config.py`:
+Edit `SCEntropy_in_VisualConceptDiscovery/config.py`:
 ```python
 FEATURE_PATHS = {
     'cifar100': '/your/custom/path/features_by_class.npz'

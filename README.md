@@ -20,7 +20,7 @@ SDEntropy_master/
 ├── README.md                                    # This file
 ├── requirements.txt                             # Combined dependencies for all modules
 │
-├── SCEnrtopy_in_VisualConceptDiscovery/        # Visual concept discovery module
+├── SCEntropy_in_VisualConceptDiscovery/        # Visual concept discovery module
 │   ├── src/                                     # Source code
 │   │   ├── models/                              # Model definitions and training
 │   │   ├── clustering/                          # Clustering algorithms
@@ -114,7 +114,7 @@ Implements entropy-based clustering algorithms to **discover hierarchical semant
 #### Running the Complete Pipeline
 
 ```bash
-cd SCEnrtopy_in_VisualConceptDiscovery
+cd SCEntropy_in_VisualConceptDiscovery
 
 # Run experiment for a specific dataset
 python scripts/run_experiment.py --dataset fashionmnist --epochs 10 --entropy_threshold 0.4
@@ -156,7 +156,7 @@ For reviewers and users who want to reproduce the paper results, the project sup
 By default, the project uses relative paths within the project directory:
 ```bash
 # Features will be saved/loaded from:
-SCEnrtopy_in_VisualConceptDiscovery/results/cifar100/features_by_class.npz
+SCEntropy_in_VisualConceptDiscovery/results/cifar100/features_by_class.npz
 ```
 
 No additional configuration needed. Just run:
@@ -179,7 +179,7 @@ python scripts/run_hsc_evaluation.py
 
 **Option 3: Edit Configuration File**
 
-Modify `SCEnrtopy_in_VisualConceptDiscovery/config.py`:
+Modify `SCEntropy_in_VisualConceptDiscovery/config.py`:
 ```python
 # Uncomment and set the path in config.py
 ORIGINAL_FEATURE_PATH = '/path/to/original/features_by_class.npz'
@@ -204,7 +204,7 @@ The pipeline generates:
 3. Discovered semantic hierarchies with different granularity levels
 4. Hierarchical Semantic Coherence (HSC) evaluation metrics
 
-Results are saved in `SCEnrtopy_in_VisualConceptDiscovery/results/` under dataset-specific subdirectories.
+Results are saved in `SCEntropy_in_VisualConceptDiscovery/results/` under dataset-specific subdirectories.
 
 #### Reproducing Paper Figures
 
