@@ -10,7 +10,6 @@ import os
 import sys
 from typing import Dict, List, Tuple
 import matplotlib.pyplot as plt
-import seaborn as sns
 import pandas as pd
 from scipy.spatial.distance import cosine
 
